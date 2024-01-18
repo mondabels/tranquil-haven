@@ -1,3 +1,4 @@
 # tranquil-haven
 
-![Banner](TRANQUIL HAVEN.png)
+![Tranquil Haven](TRANQUIL%20HAVEN.png)
+
